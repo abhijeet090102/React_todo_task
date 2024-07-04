@@ -1,0 +1,90 @@
+.TodotaskWhole{
+    background-color: #b3ffa97e;
+    border: 2px solid brown;
+    border-radius: 10px;
+    margin:10px 20px 10px;
+    margin-top: 0px;
+    
+}
+.todolist{
+    background-color: #fdc8a5b9;
+    border-radius: 10px;
+    margin: 10px 20px 10px;
+    color-scheme: light dark;
+    color: rgb(240, 13, 111);
+    box-shadow: 2px 2px #03152bfa;
+}
+.Amddtasks{
+    background-color: #a9d7ff7e;
+    margin: 20px 100px 20px;
+    border-radius: 10px;
+}
+.todoAddInput{
+    margin: 4px 2px 4px;
+    border-radius: 8px;
+    padding: 4px 6px;
+}
+.UpdateListTodo{
+    background-color: #a9d7ff7e;
+    margin: 20px 100px 20px;
+    border-radius: 10px;
+}
+.handleUpdate{
+    margin: 4px 2px 4px;
+    padding: 4px 8px;
+    border-radius: 8px;
+}
+.updateButton{
+    color-scheme: light dark;
+    padding: 6px 8px;
+    margin: 8px 12px 8px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.addTaskButton{
+    color-scheme: light dark;
+    padding: 6px 8px;
+    margin: 8px 12px 8px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.addTaskButton:hover{
+    box-shadow: 2px 2px #67aafce7;
+    background: #a5fdb8b9;
+    color:var(black #2870c9fa);
+    
+}
+.updateButton:hover{
+    box-shadow: 2px 2px #67aafce7;
+    background: #a5fdb8b9;
+    color:black;
+
+}
+.todolist:hover{
+    box-shadow: #6bfcaf90;
+    border: 2px solid #eefda5d6;
+}
+.buttonEdit:hover{
+    color: #ffc979;
+    box-shadow: 2px 2px #e6fc67ed;
+    padding: 2px 4px;
+    margin: 4px 8px 4px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.buttonDelete:hover{
+    color: #5aa1f7fa;
+    box-shadow: 2px 2px #fc6785ed;
+    padding: 2px 4px;
+    margin: 4px 8px 4px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.todoAddInput:hover{
+    box-shadow: 2px 2px #122f53fa;
+    background-color: #83fb42bb;
+}
+.handleUpdate:hover{
+    box-shadow: 2px 2px #683816e9 ;
+    background-color: #18ed6d;
+}
